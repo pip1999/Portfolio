@@ -23,4 +23,4 @@ The 90's had a variety of pop, rap and alternative/grunge music. So we can expec
 
 Homework week 7:
 
-I am still working on this sorry! Will finish today 21/02 :)
+The plot shows each song's danceability and energy, seperated by playlists that I want to compare. Additionally, the size of the points show the popularity of each song. 
