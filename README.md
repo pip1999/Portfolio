@@ -25,4 +25,4 @@ Homework week 7:
 
 The plot shows each song's danceability and energy, seperated by playlists that I want to compare. Additionally, the size of the points show the popularity of each song. 
 
-Important: you should download/open the plot othewise it is not very clear :)
+
