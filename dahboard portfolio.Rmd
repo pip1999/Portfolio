@@ -1,0 +1,15 @@
+---
+title: "Dashboard"
+output:  
+  flexdashboard::flex_dashboard:
+    storyboard: true
+---
+
+Introduction {data-icon="fa-thin fa-folder-music"}
+=================
+
+Plots
+=================
+
+Discussion
+=================
